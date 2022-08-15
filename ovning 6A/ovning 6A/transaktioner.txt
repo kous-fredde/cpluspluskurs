@@ -1,0 +1,2 @@
+Totala antalet transaktioner= 0
+Datum   Typ   Namn   Belopp   Kompisar
